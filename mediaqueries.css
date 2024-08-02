@@ -30,6 +30,17 @@
         height: fit-content;
     }
 
+    footer {
+        height: fit-content;
+        margin: 5% 0;
+    }
+
+    .contact-info-upper-container{
+        height: fit-content;
+        margin: 5% 0;
+    }
+
+
     section {
         margin: 0 5%;
     }
