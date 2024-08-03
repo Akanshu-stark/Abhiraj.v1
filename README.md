@@ -91,10 +91,6 @@ portfolio-repo/
 
 Contributions are welcome! If you have suggestions or improvements, feel free to fork the repository and submit a pull request. Please follow the coding style and guidelines of the project.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ## Contact
 
 For any inquiries or feedback, you can reach me at:
