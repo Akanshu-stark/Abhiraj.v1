@@ -11,8 +11,7 @@ Welcome to my portfolio website! This site is designed to showcase my web develo
 5. [Usage](#usage)
 6. [Project Structure](#project-structure)
 7. [Contributing](#contributing)
-8. [License](#license)
-9. [Contact](#contact)
+8. [Contact](#contact)
 
 ## About
 
