@@ -42,7 +42,7 @@ To view or work on this portfolio website locally, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/your-portfolio-repo.git
+   git clone https://github.com/Akanshu-stark/portfolio-repo.git
    cd your-portfolio-repo
    ```
 
