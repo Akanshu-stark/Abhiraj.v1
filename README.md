@@ -73,16 +73,16 @@ To view or work on this portfolio website locally, follow these steps:
 Here’s an overview of the project structure:
 
 ```
-your-portfolio-repo/
+portfolio-repo/
 │
 ├── index.html                # Main HTML file
 ├── css/                      # Directory for CSS files
-│   └── styles.css            # Stylesheet
+│   ├── styles.css            # Stylesheet
 |   └── mediaqueries.css      #Mediaqueries for responsiveness of website
 ├── js/                       # Directory for JavaScript files
 │   └── scripts.js            # JavaScript file
 ├── assets/                   # Directory for assets (images, fonts, etc.)
-│   ├── images/               # Subdirectory for images
+│   └── images/               # Subdirectory for images
 │       └── example.jpg       # Example image
 └── README.md                 # This README file
 ```
