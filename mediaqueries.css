@@ -61,6 +61,9 @@
     #contact,footer {
         height: 40vh;
     }
+    #about{
+        margin-top: 60px;
+    }
 
     #profile {
         height: 83vh;
@@ -111,6 +114,9 @@
     }
     .text-container {
         text-align: justify;
+    }
+    footer p{
+        font-size: small;
     }
     
 }
